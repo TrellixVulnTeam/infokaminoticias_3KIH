@@ -171,6 +171,12 @@ footer div ul {
     display: grid;
     grid-template-columns: repeat(1, 2fr);
     grid-gap: 5px; }
+  .containernoticia, .containernoticia2 {
+    width: 300px;
+    height: 500px;
+    margin: 5px 30px;
+    margin-bottom: 20px;
+    align-items: center; }
   footer div ul {
     background-color: #191919;
     list-style: none;
